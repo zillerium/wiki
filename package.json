@@ -1,0 +1,16 @@
+{
+  "name": "truffle",
+  "version": "0.1.0",
+  "private": true,
+  "devDependencies": {
+    "react-scripts": "0.8.1"
+  },
+  "dependencies": {
+    "bip39": "^2.2.0",
+    "ethereumjs-wallet": "^0.6.0",
+    "react": "^15.4.1",
+    "react-dom": "^15.4.1",
+    "web3": "^0.17.0-beta",
+    "web3-provider-engine": "^8.1.11"
+  }
+}

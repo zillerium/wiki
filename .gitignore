@@ -1,0 +1,7 @@
+.c9
+.git
+
+node_modules
+
+app/bower_components
+app/node_modules
